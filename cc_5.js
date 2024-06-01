@@ -38,3 +38,13 @@ class Manager extends Employee {
 let manager = new Manager("Alice Smith", 7000, "Sales");
 manager.calculateAnnualSalary();
 
+// Instantiate Manager Objects
+
+// Manager 1: Bob Ross Digital Marketing department
+let manager1 = new Manager("Bob Ross", 6600, "Digital Marketing");
+manager1.calculateAnnualSalary();
+
+// Manager 2: Debbie Little Finance department
+let manager2 = new Manager("Debbie Little", 7205, "Finance");
+manager2.calculateAnnualSalary();
+
